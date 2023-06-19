@@ -27,7 +27,7 @@ const contracts = [
     prod: 9159351,
     name: 'Proxy',
     network: 'goerli',
-    address: '0x7DC95f1aB5BD988DFe593517c6Ae3De3817400AA',
+    address: '0xe043518A93239397004A70dE76b9541A8605c1d5',
   },
   {
     prod: 4429818,

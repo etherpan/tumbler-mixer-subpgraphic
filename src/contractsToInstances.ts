@@ -36,10 +36,10 @@ contractsToInstances.set("0xaf4c0b70b2ea9fb7487c7cbb37ada259579fe040", // Inst
 contractsToInstances.set("0xa5c2254e4253490c54cef0a4347fddb8f75a4998", // Instance-matic-100000
   "matic-100000"
 );
-contractsToInstances.set("0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc", // Instance-eth-0.1
+contractsToInstances.set("0x4e75240082787d802d226ca4206bfef1b842b730", // Instance-eth-0.1
   "eth-0.1"
 );
-contractsToInstances.set("0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936", // Instance-eth-1
+contractsToInstances.set("0x45e0f782c003163c1ce447b983852713ae946510", // Instance-eth-1
   "eth-1"
 );
 contractsToInstances.set("0x910cbd523d972eb0a6f4cae4618ad62622b39dbf", // Instance-eth-10
@@ -78,7 +78,7 @@ contractsToInstances.set("0xd96f2b1c14db8458374d9aca76e26c3d18364307", // Inst
 contractsToInstances.set("0x4736dcf1b7a3d580672cce6e7c65cd5cc9cfba9d", // Instance-usdc-1000
   "usdc-1000"
 );
-contractsToInstances.set("0x169ad27a470d064dede56a2d3ff727986b15d52b", // Instance-usdt-100
+contractsToInstances.set("0x8f92b30591b8e676f05c3db5b7fdec5172b31d44", // Instance-usdt-100
   "usdt-100"
 );
 contractsToInstances.set("0x0836222f2b2b24a3f36f98668ed8f0b38d1a872f", // Instance-usdt-1000
@@ -93,8 +93,8 @@ contractsToInstances.set("0x610b717796ad172b316836ac95a2ffad065ceab4", // Inst
 contractsToInstances.set("0xbb93e510bbcd0b7beb5a853875f9ec60275cf498", // Instance-wbtc-10
   "wbtc-10"
 );
-contractsToInstances.set("0x119e1dac9a606caa7f331d1f45b78bb4194135e6", // Instance-usdc-0.1
-  "usdc-0.1"
+contractsToInstances.set("0x1b98e8cfa0c451bf03e1d4700ff593f234d786da", // Instance-usdt-100
+  "usdt-100"
 );
 contractsToInstances.set("0x591eb6a2f04138da4216747adeccb3f7119397b1", // Instance-eth-0.1
   "eth-0.1"
