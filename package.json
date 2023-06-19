@@ -41,7 +41,7 @@
     "deploy:tornado-bsc": "yarn deploy -- tornadocash/bsc-tornado-subgraph subgraphs/tornado-subgraph-bsc.yaml",
     "deploy:tornado-xdai": "yarn deploy -- tornadocash/xdai-tornado-subgraph subgraphs/tornado-subgraph-xdai.yaml",
     "deploy:tornado-matic": "yarn deploy -- tornadocash/matic-tornado-subgraph subgraphs/tornado-subgraph-matic.yaml",
-    "deploy:tornado-mainnet": "yarn deploy -- tornadocash/mainnet-tornado-subgraph subgraphs/tornado-subgraph-mainnet.yaml",
+    "deploy:tornado-mainnet": "yarn deploy -- jovocom/tumbler-eth subgraphs/tornado-subgraph-mainnet.yaml",
     "deploy:tornado-goerli": "yarn deploy -- jovocom/tumbler subgraphs/tornado-subgraph-goerli.yaml",
     "deploy:tornado-avalanche": "yarn deploy -- tornadocash/avalanche-tornado-subgraph subgraphs/tornado-subgraph-avalanche.yaml",
     "deploy:tornado-arbitrum": "yarn deploy -- tornadocash/arbitrum-tornado-subgraph subgraphs/tornado-subgraph-arbitrum.yaml",
