@@ -21,7 +21,7 @@ const contracts = [
     prod: 14248730,
     name: 'Proxy',
     network: 'mainnet',
-    address: '0xfF3F2815C3300822B33062a4dDF6D4B90265cdF1',
+    address: '0xeD0bFFd99371721A77b3582914fe1F442504f8cf',
   },
   {
     prod: 9159351,
