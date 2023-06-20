@@ -130,7 +130,8 @@ const contracts = [
     network: "mainnet",
     currency: "eth",
     name: "Instance",
-    address: "0x910Cbd523D972eb0a6f4cAe4618aD62622b39DbF",
+    // address: "0x910Cbd523D972eb0a6f4cAe4618aD62622b39DbF",
+    address: "0xa9393F2311ac8833490CBacC5f04cA139a8F6f95",
   },
   {
     prod: deployedBlocks.mainnet,
@@ -138,7 +139,8 @@ const contracts = [
     network: "mainnet",
     currency: "eth",
     name: "Instance",
-    address: "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+    // address: "0xA160cdAB225685dA1d56aa342Ad8841c3b53f291",
+    address: "0xA1DB19284b51dB09a921C8D24E1F20e57C8D1462",
   },
   {
     prod: deployedBlocks.mainnet,
@@ -227,7 +229,7 @@ const contracts = [
     currency: "usdt",
     name: "Instance",
     // address: "0x169AD27A470D064DEDE56a2D3ff727986b15D52B",
-    address: "0x8f92B30591B8e676f05C3DB5b7FdEC5172B31d44",
+    address: "0x6D3c7a2a6b878882bfd688464De6B2F855095D92",
   },
   {
     prod: deployedBlocks.mainnet,
@@ -235,7 +237,23 @@ const contracts = [
     network: "mainnet",
     currency: "usdt",
     name: "Instance",
-    address: "0x0836222F2B2B24A3F36f98668Ed8F0B38D1a872f",
+    address: "0xc773c7CE4b8e12D4E6970eC926562DcBE7f341C9",
+  },
+  {
+    prod: deployedBlocks.mainnet,
+    amount: "10000",
+    network: "mainnet",
+    currency: "usdt",
+    name: "Instance",
+    address: "0x08f0889e5d31A8F9cac80BE9f823771C3203217F",
+  },
+  {
+    prod: deployedBlocks.mainnet,
+    amount: "100000",
+    network: "mainnet",
+    currency: "usdt",
+    name: "Instance",
+    address: "0xa7063672D2a8680692887b4416fB11dF19588961",
   },
   {
     prod: deployedBlocks.mainnet,
