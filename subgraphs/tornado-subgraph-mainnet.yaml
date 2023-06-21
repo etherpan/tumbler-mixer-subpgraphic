@@ -350,7 +350,7 @@
     name: Instance-100-usdt
     network: mainnet
     source:
-      address: "0x6D3c7a2a6b878882bfd688464De6B2F855095D92"
+      address: "0xdc5AAB9C200FCc435EB07d8A7719bDC62C91865c"
       abi: Instance
       startBlock: 9116966
     mapping:
@@ -511,7 +511,7 @@
     name: Proxy
     network: mainnet
     source:
-      address: "0xfF3F2815C3300822B33062a4dDF6D4B90265cdF1"
+      address: "0x969BB4746Eb375dD15d743B3f5f3bCcD6e2A66cE"
       abi: Proxy
       startBlock: 14248730
     mapping:

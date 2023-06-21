@@ -78,7 +78,7 @@ contractsToInstances.set("0xd96f2b1c14db8458374d9aca76e26c3d18364307", // Inst
 contractsToInstances.set("0x4736dcf1b7a3d580672cce6e7c65cd5cc9cfba9d", // Instance-usdc-1000
   "usdc-1000"
 );
-contractsToInstances.set("0x6d3c7a2a6b878882bfd688464de6b2f855095d92", // Instance-usdt-100
+contractsToInstances.set("0xdc5aab9c200fcc435eb07d8a7719bdc62c91865c", // Instance-usdt-100
   "usdt-100"
 );
 contractsToInstances.set("0xc773c7ce4b8e12d4e6970ec926562dcbe7f341c9", // Instance-usdt-1000

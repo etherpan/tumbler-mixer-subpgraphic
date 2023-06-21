@@ -229,7 +229,7 @@ const contracts = [
     currency: "usdt",
     name: "Instance",
     // address: "0x169AD27A470D064DEDE56a2D3ff727986b15D52B",
-    address: "0x6D3c7a2a6b878882bfd688464De6B2F855095D92",
+    address: "0xdc5AAB9C200FCc435EB07d8A7719bDC62C91865c",
   },
   {
     prod: deployedBlocks.mainnet,
